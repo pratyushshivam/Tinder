@@ -1,5 +1,5 @@
 # Tinder
-Tinder Clone in ReactJS
+Tinder MERN CLONE 
 
 
 ![one] one.jpg
